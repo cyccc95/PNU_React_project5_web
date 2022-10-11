@@ -9,3 +9,4 @@
 + Components
 + import image
 + props
++ object
