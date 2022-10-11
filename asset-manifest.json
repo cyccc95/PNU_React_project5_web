@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PNU_React_project5_web/static/css/main.5054551e.css",
+    "main.js": "/PNU_React_project5_web/static/js/main.4e1e714b.js",
+    "static/js/787.89be63f9.chunk.js": "/PNU_React_project5_web/static/js/787.89be63f9.chunk.js",
+    "static/media/JavaScript.png": "/PNU_React_project5_web/static/media/JavaScript.a9d98d8dba7673fb0e4f.png",
+    "static/media/CSS.png": "/PNU_React_project5_web/static/media/CSS.47638e9621b3995cd828.png",
+    "index.html": "/PNU_React_project5_web/index.html",
+    "main.5054551e.css.map": "/PNU_React_project5_web/static/css/main.5054551e.css.map",
+    "main.4e1e714b.js.map": "/PNU_React_project5_web/static/js/main.4e1e714b.js.map",
+    "787.89be63f9.chunk.js.map": "/PNU_React_project5_web/static/js/787.89be63f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5054551e.css",
+    "static/js/main.4e1e714b.js"
+  ]
+}
